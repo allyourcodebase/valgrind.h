@@ -1,0 +1,12 @@
+.{
+    .name = "valgrind_h",
+    .version = "3.23.0",
+    .minimum_zig_version = "0.13.0",
+    .paths = .{
+        "LICENSE",
+        "README.md",
+        "build.zig",
+        "build.zig.zon",
+        "include/valgrind.h.in",
+    },
+}
