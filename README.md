@@ -1,6 +1,6 @@
 # valgrind.h
 
-This is a Zig package for providing:
+This is a minimal source repository that provides:
 
 ```c
 #include <valgrind/valgrind.h>
